@@ -29,7 +29,8 @@ class _HomepageState extends State<Homepage> {
     {"title": "samsung", "desc": "s20", "price": 45.000},
     {"title": "samsung", "desc": "s20", "price": 15.000},
     {"title": "samsung", "desc": "s20", "price": 15.000},
-    {"title": "samsung", "desc": "s20", "price": 15.000}
+    {"title": "samsung", "desc": "s20", "price": 15.000},
+    {"title": "redmi", "desc" : "note10", "price" : 34.000}
   ];
   @override
   Widget build(BuildContext context) {
